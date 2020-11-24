@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1582952264 source:c:\users\rfler\documents\computação gráfica\relogio\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+
+1582936184 c:\users\rfler\documents\computação gráfica\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1583634895 source:c:\users\rfler\documents\computação gráfica\relogioanimado\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+
